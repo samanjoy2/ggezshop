@@ -18,3 +18,12 @@
 </div>
 
 
+# Intorduction
+
+This is a Laravel 9 Project made for CSE470 - Software Engineering Course (BRAC University). This is an ecommerce website with Multi authentications (Admin, Superviser and Customer). 
+
+# Features
+
+* Multiple Channels, Locale, Currencies.
+* Built-in Access Control Layer.
+* Beautiful and Responsive Storefront.
