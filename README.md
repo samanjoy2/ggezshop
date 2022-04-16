@@ -27,3 +27,6 @@ This is a Laravel 9 Project made for CSE470 - Software Engineering Course (BRAC 
 * Multiple Channels, Locale, Currencies.
 * Built-in Access Control Layer.
 * Beautiful and Responsive Storefront.
+
+
+![https://i.ibb.co/tLYcjKx/ezgif-3-b8e678f28d.gif]
