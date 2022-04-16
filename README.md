@@ -22,11 +22,22 @@
 
 This is a Laravel 9 Project made for CSE470 - Software Engineering Course (BRAC University). This is an ecommerce website with Multi authentications (Admin, Superviser and Customer). 
 
+# Demo Images
+
+❮img src="https://i.ibb.co/8BXzrLw/scrnli-4-17-2022-1-38-46-AM.png" width="700" height="332"❯
+
 # Features
 
 * Multiple Channels, Locale, Currencies.
 * Built-in Access Control Layer.
 * Beautiful and Responsive Storefront.
-
-![This is an image](https://i.ibb.co/tLYcjKx/ezgif-3-b8e678f28d.gif)
-![]
+* Descriptive and Simple Admin Panel.
+* Admin Dashboard.
+* Custom Attributes.
+* Built on Modular Approach.
+* Support for Multiple Store Themes.
+* Multistore Inventory System.
+* Orders Management System.
+* Customer Cart, Wishlist, Product Reviews.
+* Simple, Configurable, Group, Bundle, Downloadable and Virtual Products.
+* Price rules (Discount) inbuilt.
