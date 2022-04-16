@@ -1,4 +1,3 @@
-<br />
 <div align="center">
   <a href="https://github.com/samanjoy2/ggezshop">
     <img src="https://i.ibb.co/L9GWHx7/898f45be3cd722f58aacf9141019a1f0-gg-ez-gaming-badge.png" alt="Logo" width="80" height="80">
