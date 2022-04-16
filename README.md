@@ -9,11 +9,11 @@
     Online Store for Games, Apps and Virtual Currencies
     <br />
   </p>
-    <p>
+    <p> .
         <a href="https://drive.google.com/file/d/1nhgOagYbnf9O_IWahAl_Pt7Ywm_Jc6Ql/view?usp=sharing">Use Case Diagram</a>
     ·
     <a href="https://drive.google.com/file/d/13O_yvQk-lpgyrhq5DuI1A36MYYF3Iedz/view?usp=sharing">Class Diagram</a>
-    · <br>
+    · <br> <br>
         <b>‣ The MVC Structure Shortcuts: </b><a href="https://github.com/samanjoy2/ggezshop/tree/main/app/Models">Model(s) | </a><a         href="https://github.com/samanjoy2/ggezshop/tree/main/resources/views"> View(s) | </a><a href="https://github.com/samanjoy2/ggezshop/tree/main/app/Http/Controllers">Controller(s)</a></p>
 </div>
 
