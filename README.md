@@ -28,5 +28,5 @@ This is a Laravel 9 Project made for CSE470 - Software Engineering Course (BRAC 
 * Built-in Access Control Layer.
 * Beautiful and Responsive Storefront.
 
-
-![https://i.ibb.co/tLYcjKx/ezgif-3-b8e678f28d.gif]
+![This is an image](https://i.ibb.co/tLYcjKx/ezgif-3-b8e678f28d.gif)
+![]
