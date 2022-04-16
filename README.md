@@ -25,6 +25,9 @@ This is a Laravel 9 Project made for CSE470 - Software Engineering Course (BRAC 
 # Demo Images
 
 <img src="https://i.ibb.co/8BXzrLw/scrnli-4-17-2022-1-38-46-AM.png" width="700" height="332">
+<img src="https://i.ibb.co/ccjBKJ9/scrnli-4-17-2022-1-42-15-AM.png" width="700" height="332">
+<img src="https://i.ibb.co/HV04bqW/scrnli-4-17-2022-1-43-32-AM.png" width="700" height="332">
+<img src="https://i.ibb.co/ZLSsfv8/scrnli-4-17-2022-1-44-02-AM.png" width="700" height="332">
 
 
 # Features
