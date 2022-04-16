@@ -32,16 +32,16 @@ This is a Laravel 9 Project made for CSE470 - Software Engineering Course (BRAC 
 
 # Features
 
-* Multiple Channels, Locale, Currencies.
-* Built-in Access Control Layer.
+* Multi Authentication (Admin, Supervisor, Customer)
 * Beautiful and Responsive Storefront.
-* Descriptive and Simple Admin Panel.
 * Admin Dashboard.
-* Custom Attributes.
-* Built on Modular Approach.
-* Support for Multiple Store Themes.
-* Multistore Inventory System.
+* Create Products, Categories, Subcategories, Tags, Coupons.
 * Orders Management System.
 * Customer Cart, Wishlist, Product Reviews.
-* Simple, Configurable, Group, Bundle, Downloadable and Virtual Products.
-* Price rules (Discount) inbuilt.
+* Simple, Configurable.
+* Coupon System.
+
+# Contributors
+
+Saman Sarker Joy
+
