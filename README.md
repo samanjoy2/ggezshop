@@ -20,7 +20,7 @@
 
 # Intorduction
 
-This is a Laravel 9 Project made for CSE470 - Software Engineering Course (BRAC University). This is an ecommerce website with Multi authentications (Admin, Superviser and Customer). 
+This is a Laravel 9 Project made. This is a convenient and proper in-app and games store with Multi authentications (Admin, Customer) that would accept local transactions helping customers to buy the items with ease.
 
 # Demo Images
 
@@ -29,6 +29,11 @@ This is a Laravel 9 Project made for CSE470 - Software Engineering Course (BRAC 
 <img src="https://i.ibb.co/HV04bqW/scrnli-4-17-2022-1-43-32-AM.png" width="700" height="332">
 <img src="https://i.ibb.co/ZLSsfv8/scrnli-4-17-2022-1-44-02-AM.png" width="700" height="332">
 
+# Used
+
+* Laravel 9
+* PHP 8.0
+* MariaDB or MYSQL
 
 # Features
 
@@ -40,8 +45,3 @@ This is a Laravel 9 Project made for CSE470 - Software Engineering Course (BRAC 
 * Customer Cart, Wishlist, Product Reviews.
 * Simple, Configurable.
 * Coupon System.
-
-# Contributors
-
-Saman Sarker Joy
-
