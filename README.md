@@ -45,3 +45,10 @@ This is a Laravel 9 Project made. This is a convenient and proper in-app and gam
 * Customer Cart, Wishlist, Product Reviews.
 * Simple, Configurable.
 * Coupon System.
+
+# Future Features
+
+- [x] Supervisor
+- [x] Wishlist
+- [ ] Delivery Automation
+- [ ] Customer Live Support
