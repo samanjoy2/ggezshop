@@ -52,3 +52,4 @@ This is a Laravel 9 Project made. This is a convenient and proper in-app and gam
 - [x] Wishlist
 - [ ] Delivery Automation
 - [ ] Customer Live Support
+- [ ] Dark Theme
