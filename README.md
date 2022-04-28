@@ -53,3 +53,15 @@ This is a Laravel 9 Project made. This is a convenient and proper in-app and gam
 - [ ] Delivery Automation
 - [ ] Customer Live Support
 - [ ] Dark Theme
+
+# Installation
+
+1. Clone the repo `git clone https://github.com/samanjoy2/ggezshop.git`
+1. `composer install`
+1. Rename .env.example to .env or `cp .env.example .env`
+1. `php artisan key:generate`
+1. Make database, connect it with .env
+1. `php artisan migrate --seed`
+1. `php artisan storage:link`
+1. `npm install && npm run dev`
+1. `php artisan serve`
