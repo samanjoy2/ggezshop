@@ -15,7 +15,11 @@ class UserTest extends TestCase
     public function test_login_form()
     {
         $response = $this->get('/login');
-
+        $response->assertStatus(200);
+    }
+    public function test_admin_login_form()
+    {
+        $response = $this->get('/admin/login');
         $response->assertStatus(200);
     }
     public function test_user_duplication()
@@ -33,7 +37,6 @@ class UserTest extends TestCase
     public function test_register_form()
     {
         $response = $this->get('/register');
-
         $response->assertStatus(200);
     }
 }
