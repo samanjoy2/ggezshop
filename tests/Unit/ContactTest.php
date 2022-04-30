@@ -12,7 +12,12 @@ class ContactTest extends TestCase
      *
      * @return void
      */
-    public function test_contact_form()
+    public function test_contact_page_render()
+    {
+        $response = $this->get('/contact');
+        $response->assertStatus(200);
+    }
+    public function test_contact_page_form()
     {
         $contact = Contact::make([
             'name' => "Sam",

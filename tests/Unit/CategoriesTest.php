@@ -44,7 +44,7 @@ class CategoriesTest extends TestCase
             'description' => NULL,
             'cover' => NULL,
             'status' => 1,
-            'parent_id' => 50,
+            'parent_id' => ($category1->id),
         ]);
 
 
